@@ -18,10 +18,10 @@ If you want to translate for this app you can start a PR.
 (Don't yet, the format of language_packs is not decided yet)
 
 # To-do list:
-Implement animations on sprite
-Implement happiness & hungriness
-Saving `current_sprite_set`
-Add Chinese to `language_packs`
+- Implement animations on sprite
+- Implement happiness & hungriness
+- Saving `current_sprite_set`
+- Add Chinese to `language_packs`
 
 # Changelog
 (nothing here yet)
